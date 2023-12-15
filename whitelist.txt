@@ -9,3 +9,4 @@ f450abf623a3397916c7f8f6ad67587b1e992bf2d2e6255b10df3ed2a6453adf //am sus - New 
 a2fe75929ada5cf40d6fec93980bf0eb52371c3d030eac92c64700bc71ebe1ad //Dark Emeperor - New Hash
 4cd305e2aa2ccd8960d9c3757bf2168eaa730e100e6ffa8f43fd3c955d564583 //Inas - New Hash
 55aeb8b73cdb9c7e4caf782084bd43f64a5925a9359399b1ecf80ca5627cefe3 // Memoryl
+07daea9e83774b0de2630b8fd746708379d6f217df7a967d87cb9da6a7379366 // Yoake - New Hash
