@@ -4,7 +4,7 @@ a92ddb55e0c5a50f2b8a4dac8a1bd5691f1e315bb45ab20b1360c76ed54d0f77 //McCad00
 8b1574e3a4ead88633a832e5beb6bb3fc49cff88a4b4e9bcf77ce3a5ab4ce862 //Memoryl
 d207cc28f8013fad2b33fa132a6af8c049424ceb3fbf0ddcaeb65e97e64da64b //KainKondraki - New Hash
 9271acf2d09da523497b5cf2a49c30ecead9240f436303d13a8d53f1f168e573 //FlowAria - New Hash
-f450abf623a3397916c7f8f6ad67587b1e992bf2d2e6255b10df3ed2a6453adf //am sus - New Hash
+a6c5128278345857bf55518fc42baa649592cbe9cd77947ba769df84fe5c6166 //am sus - New Hash
 1f43a81be89e17e0a5a10f4e99f7cb5b800912a18f1662dc3bc7276db96a4ce1 //Marblue / T_Explorers - New Hash
 a2fe75929ada5cf40d6fec93980bf0eb52371c3d030eac92c64700bc71ebe1ad //Dark Emeperor - New Hash
 4cd305e2aa2ccd8960d9c3757bf2168eaa730e100e6ffa8f43fd3c955d564583 //Inas - New Hash
